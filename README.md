@@ -117,36 +117,19 @@ Latest released version: v1.26.0
 
 | Platform | Architecture |
 |----------|--------------|
-| Ubuntu-24.04 | x64 |
-| al2 | x64 |
-| al2012 | x64 |
-| alpine-3.16 | x64, aarch 64 |
-| fedora-34 | x64 |
-| macos-14 | arm64 |
-| macos-14-large | x64 |
-| manylinux2014 | x64, aarch64 |
-| opensuse-leap | x64 |
-| raspbian | arm |
-| rhel8 | x64 |
-| windows-2025 | x64,x86 |
 
 ## Tier 2 — Supported (Not Tested in CI)
 
 | Platform | Architecture |
 |----------|--------------|
-| All supported platforms | All |
 
 ## Supported Tools
 
 | Name | Version | Platforms |
 |------|---------|-----------|
+| CMake | 3.9+ | All |
+| Clang | 3.6+ | All |
 | gcc | 4.8,5,6,7,8,11 | Linux |
-
-## Supported Libraries
-
-| Name | Version | Platforms |
-|------|---------|-----------|
-| Typescript | 4.9.5 | All |
 
 ## Supported Frameworks
 
