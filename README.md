@@ -134,19 +134,14 @@ Latest released version: v1.26.0
 
 | Platform | Architecture |
 |----------|--------------|
-| All supported platforms | All |
 
 ## Supported Tools
 
 | Name | Version | Platforms |
 |------|---------|-----------|
+| CMake | 3.9+ | All |
+| Clang | 3.6+ | All |
 | gcc | 4.8,5,6,7,8,11 | Linux |
-
-## Supported Libraries
-
-| Name | Version | Platforms |
-|------|---------|-----------|
-| Typescript | 4.9.5 | All |
 
 ## Supported Frameworks
 
