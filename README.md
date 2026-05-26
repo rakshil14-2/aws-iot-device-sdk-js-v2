@@ -123,18 +123,4 @@ Latest released version: v1.26.0
 | Platform | Architecture |
 |----------|--------------|
 
-## Supported Tools
-
-| Name | Version | Platforms |
-|------|---------|-----------|
-| CMake | 3.9+ | All |
-| Clang | 3.6+ | All |
-| gcc | 4.8,5,6,7,8,11 | Linux |
-
-## Supported Frameworks
-
-| Name | Version | Platforms |
-|------|---------|-----------|
-| Node.js | 14+ | All platforms |
-
 <!-- PLATFORM_SUPPORT_END -->
