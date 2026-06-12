@@ -117,40 +117,22 @@ Latest released version: v1.26.0
 
 | Platform | Architecture |
 |----------|--------------|
-| al2 | x64 |
-| al2012 | x64 |
-| alpine-3.16 | x64,aarch64 |
-| fedora-34 | x64 |
-| macOS-14-large | x64 |
 | macos-latest | arm64 |
-| manylinux2014 | x64,aarch64 |
-| opensuse-leap | x64 |
-| raspbian | arm |
 | ubuntu 22.04 | x64 |
-| ubuntu 24.04 | x64 |
-| windows-2022 | x64 |
-| windows-latest | x64 |
+| windows-11 | x64 |
 
 ## Tier 2 — Supported (Not Tested in CI)
 
 | Platform | Architecture |
 |----------|--------------|
 
-## Supported Libraries
-
-| Name | Version | Platforms |
-|------|---------|-----------|
-| cmake-js | 7.3.0 | All |
-
 ## Supported Frameworks
 
 | Name | Version | Platforms |
 |------|---------|-----------|
-| Electron | latest | All |
-| Electron | v22+ | macOS |
-| Electron | v4.x+ | Windows |
+| Electron |  | All |
 | Node.js | 14+ | Linux, Windows, macOSx64, |
 | Node.js | 16+ | macOS arm64 |
-| React | 18.2.0 | All |
+| React |  | All |
 
 <!-- PLATFORM_SUPPORT_END -->
